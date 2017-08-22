@@ -67,7 +67,7 @@
 .neon {
   font: 700 140px 'Lato', sans-serif;
   text-transform: uppercase;
-  text-align: center;
+  text-align: top;
   margin: 0;
 }
 .neon:focus {
