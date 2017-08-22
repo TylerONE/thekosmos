@@ -91,7 +91,6 @@ $color2: blue;
 
 // Center everything
 body {
-  background: black;
   display: flex;
   min-height: 100vh;
   justify-content: center;
