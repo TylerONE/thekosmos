@@ -65,7 +65,7 @@
   }
 }
 .neon {
-  font: 700 140px 'Lato', sans-serif;
+  font: 500 140px 'Lato', sans-serif;
   text-transform: uppercase;
   text-align: center;
   margin: 0;
@@ -77,8 +77,6 @@
 
 body {
   background: black;
-  display: flex;
-  min-height: 100vh;
   justify-content: center;
   align-content: center;
   align-items: center;
