@@ -6,7 +6,7 @@
 }
 
 .neon {
-  position: relative;
+  position: center;
   background-image: url("https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif");
   color: transparent;
 }
@@ -72,7 +72,6 @@
 }
 .neon:focus {
   outline: none;
-  border: 1px dotted white;
 }
 
 body {
