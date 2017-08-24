@@ -6,7 +6,7 @@
 }
 
 .neon {
-  position: center;
+  position: relative;
   background-image: url("https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif");
   color: transparent;
 }
@@ -15,7 +15,7 @@
   color: white;
   -webkit-filter: blur(0.02em);
           filter: blur(0.02em);
-  position: center;
+  position: absolute;
   top: 0;
   left: 0;
   pointer-events: none;
@@ -26,7 +26,7 @@
 
 .gradient,
 .spotlight {
-  position: center;
+  position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
