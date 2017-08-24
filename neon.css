@@ -1,6 +1,6 @@
 .text-effect {
   overflow: hidden;
-  position: relative;
+  position: center;
   -webkit-filter: contrast(110%) brightness(190%);
           filter: contrast(110%) brightness(190%);
 }
@@ -15,7 +15,7 @@
   color: white;
   -webkit-filter: blur(0.02em);
           filter: blur(0.02em);
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
   pointer-events: none;
@@ -26,7 +26,7 @@
 
 .gradient,
 .spotlight {
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
   bottom: 0;
