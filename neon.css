@@ -1,12 +1,12 @@
 .text-effect {
   overflow: hidden;
-  position: center;
+  position: relative;
   -webkit-filter: contrast(110%) brightness(190%);
           filter: contrast(110%) brightness(190%);
 }
 
 .neon {
-  position: relative;
+  position: center;
   background-image: url("https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif");
   color: transparent;
 }
